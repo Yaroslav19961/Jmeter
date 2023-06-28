@@ -56,3 +56,7 @@ GET
 name: str
 age: int
 salary: int
+
+[1](https://github.com/Yaroslav19961/Jmeter/blob/main/Screenshot/java_PqhUeCA5Sj.png)
+[2](https://github.com/Yaroslav19961/Jmeter/blob/main/Screenshot/java_5DiyZcE1o8.png)
+[3](https://github.com/Yaroslav19961/Jmeter/blob/main/Screenshot/java_13muWzDWlV.png)
